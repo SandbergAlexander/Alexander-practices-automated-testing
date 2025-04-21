@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QRadLdXP3QA=",
+  "dgSpecHash": "9XROTIiAXok=",
   "success": true,
   "projectFilePath": "C:\\mycode\\Alexander practices automated testing\\C#-Test-for-simpel-home-page\\C#-Test-for-simpel-home-page.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\selenium.webdriver\\4.31.0\\selenium.webdriver.4.31.0.nupkg.sha512"
+  ],
   "logs": []
 }

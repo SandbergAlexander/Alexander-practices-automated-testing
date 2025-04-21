@@ -13,3 +13,9 @@ C:\mycode\Alexander practices automated testing\C#-Test-for-simpel-home-page\obj
 C:\mycode\Alexander practices automated testing\C#-Test-for-simpel-home-page\obj\Debug\net9.0\C#-Test-for-simpel-home-page.pdb
 C:\mycode\Alexander practices automated testing\C#-Test-for-simpel-home-page\obj\Debug\net9.0\C#-Test-for-simpel-home-page.genruntimeconfig.cache
 C:\mycode\Alexander practices automated testing\C#-Test-for-simpel-home-page\obj\Debug\net9.0\ref\C#-Test-for-simpel-home-page.dll
+C:\mycode\Alexander practices automated testing\C#-Test-for-simpel-home-page\bin\Debug\net9.0\selenium-manager\linux\selenium-manager
+C:\mycode\Alexander practices automated testing\C#-Test-for-simpel-home-page\bin\Debug\net9.0\selenium-manager\macos\selenium-manager
+C:\mycode\Alexander practices automated testing\C#-Test-for-simpel-home-page\bin\Debug\net9.0\selenium-manager\windows\selenium-manager.exe
+C:\mycode\Alexander practices automated testing\C#-Test-for-simpel-home-page\bin\Debug\net9.0\WebDriver.dll
+C:\mycode\Alexander practices automated testing\C#-Test-for-simpel-home-page\obj\Debug\net9.0\C#-Test-for-simpel-home-page.csproj.AssemblyReference.cache
+C:\mycode\Alexander practices automated testing\C#-Test-for-simpel-home-page\obj\Debug\net9.0\C#-Test-.66FF274C.Up2Date
