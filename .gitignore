@@ -1,3 +1,10 @@
 C#-Test-for-simpel-home-page/bin/Debug/net9.0/C#-Test-for-simpel-home-page.dll
 C#-Test-for-simpel-home-page/bin/Debug/net9.0/C#-Test-for-simpel-home-page.exe
 C#-Test-for-simpel-home-page/bin/Debug/net9.0/C#-Test-for-simpel-home-page.pdb
+# for Node modules
+node_modules/
+
+# for Logs
+logs/
+*.log
+npm-debug.log*

@@ -1,0 +1,14 @@
+{
+  "name": "a-simpel_to_app",
+  "version": "0.0.1",
+  "description": "todoapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Alexander sandberg",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
