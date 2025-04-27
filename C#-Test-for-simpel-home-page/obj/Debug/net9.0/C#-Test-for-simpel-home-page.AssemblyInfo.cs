@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C#-Test-for-simpel-home-page")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e5ffadafa50933dd970bc8233f5a398353b5da7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6c6a63a1e2c7682bd5ce9d2526d461a14a45b54")]
 [assembly: System.Reflection.AssemblyProductAttribute("C#-Test-for-simpel-home-page")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C#-Test-for-simpel-home-page")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
