@@ -8,3 +8,4 @@ node_modules/
 logs/
 *.log
 npm-debug.log*
+py/__pycache__/TEST_RUNER.cpython-313.pyc
